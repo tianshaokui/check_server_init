@@ -1,0 +1,2 @@
+#!/bin/sh
+numactl -s

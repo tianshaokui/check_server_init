@@ -1,0 +1,12 @@
+Name:Virtual Disk 0
+RAID Level: Primary-1, Secondary-0, RAID Level Qualifier-0
+Current Cache Policy: WriteBack, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Firmware state: Online
+Firmware state: Online
+Name:Virtual Disk 1
+RAID Level: Primary-5, Secondary-0, RAID Level Qualifier-3
+Current Cache Policy: WriteBack, ReadAdaptive, Direct, Write Cache OK if Bad BBU
+Firmware state: Online
+Firmware state: Online
+Firmware state: Online
+Firmware state: Online

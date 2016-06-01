@@ -1,0 +1,11 @@
+bc3395df173b5eefe0bf805db6792038  /etc/yum.repos.d/58.repo
+7d1215a12662e76467c12cd3c5fdefbf  /etc/yum.repos.d/CentOS-Base.repo
+c9f6514736ed53860426e196870f16e4  /etc/yum.repos.d/dell-firmware.repo
+b22cf95d47a64fd2e08edf092dc1b3bc  /etc/yum.repos.d/dell-omsa.repo
+5cbe3d23ef9893769be4c3af9f5e595a  /etc/yum.repos.d/epel.repo
+4cd77946d1b5176987036e8fb382ce2d  /etc/yum.repos.d/epel.repo.rpmnew
+b1f0b7e96f1b7e215e00deff4955cff9  /etc/yum.repos.d/epel-testing.repo
+d6a065f9edc04ae97282d32dc88927c7  /etc/yum.repos.d/nginx.repo
+528d490121286434e8443fdd60005a08  /etc/yum.repos.d/remi.repo
+c149bcaee7d52db9bf4b17cbe084c77d  /etc/yum.repos.d/rpmforge.repo
+94e4386a6ffdce22e3e0f0dbf5c9fa48  /etc/yum.repos.d/rsyslog.repo
