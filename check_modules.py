@@ -13,7 +13,8 @@ class check(object):
 		self.shel_cript = shel_cript
 		self.check_name = shel_cript.split('/')[-1][:-3] if shel_cript!='ping' else 'ping'
 	def judge_qualified(self, out_info):
-		std_out = set([x[:-1] for x in open(self.std_out)]) if os.path.isfile(self.std_out) else set([])
+		with open(self.std_out) as file:
+			std_out = set([x[:-1] for x in file])
 		unqua_leave = tuple( set(out_info) - std_out)
 		unqua_lack = tuple( std_out - set(out_info))
 		return (unqua_leave, unqua_lack)
